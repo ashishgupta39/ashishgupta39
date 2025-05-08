@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ashishgupta39
 - 👀 I’m interested in javascript, node js & react js
-- 🌱 I’m currently learning gcp
 - 📫 How to reach me ashish.gupta5@telus.com
 
 <!---
